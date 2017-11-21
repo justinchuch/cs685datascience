@@ -69,7 +69,7 @@
           <archive>
             <manifest>
               <!-- Jar file entry point -->
-              <mainClass>justin.tweetcrawler.PullData</mainClass>
+              <mainClass>justinchuch.twitter.crawler.PullData</mainClass>
             </manifest>
           </archive>
         </configuration>
