@@ -1,0 +1,12 @@
+*.DS_Store
+*._bak*
+*.bak*
+*._old*
+*.old*
+*._ori*
+*.ori*
+*.log
+*._NOUSE
+/.settings/*
+/target/
+/logs/*
