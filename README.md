@@ -1,1 +1,5 @@
-# cs685datascience
+# cs685 data science project
+
+Social Media and Data Analytics
+
+Twitter Users’ perspective
