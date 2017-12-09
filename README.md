@@ -1,4 +1,4 @@
-# cs685 data science project
+# CS685 data science project
 
 Social Media and Data Analytics
 
